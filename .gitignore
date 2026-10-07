@@ -1,0 +1,57 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# ForgeGradle
+/run/
+/runs/
+
+# Generated Gradle files
+bin/
+classes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Crash reports
+crash-reports/
+
+# Minecraft
+.minecraft/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
